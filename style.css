@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+/*header section*/
+.hero {
+    position:relative;
+    width: 50;
+    height: 50%;
+    background:grey;
+}
+/* design for the limks section on the header of the page*/
+nav {
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+/*design for the list made on the top right of the page*/
+nav ul li{
+    display: inline-block;
+    list-style:none;
+    margin: 10px 20px
+}
+
+
+
+
+nav ul li a {
+    text-decoration: none;
+    color:none;
+    font-weight: bold;
+
+}
+/*text design for hovers on link on top right of the page*/
+nav ul li a:hover {
+    color: green;
+}
+/*design for the margin of the page*/
+.detel{
+    margin-left: 8%;
+    margin-top: 10%;
+    
+}
+
+.detel h1{
+    font-size: 30px;
+    color:black;
+    margin-bottom:20px;
+}
+
+/*span design for the surname of the applicant*/
+span {
+    color:grey;
+}
+
+.detel p{
+    color:black;
+    line-height:22px;
+
+}.detel a{
+    background:black;
+    padding:10 px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+/*design for first image of the appplicant*/
+.images{
+    width: 45%;
+    height: 45%;
+    position: absolute;
+bottom: 0;
+right: 50px;
+
+}
+
+.images img{
+    height: 100%;
+    position: absolute;
+    left:50%;
+    bottom: 0;
+    
+    
+}
+/*design for contact[footer] headings*/
+.footer h2{ 
+    font-size: 35px;
+    color: black;
+    margin-bottom: 10%;
+}
+
+.footer{
+    margin:5%;
+    margin-top: 35%;
+
+}
+
+
+.footer ul li{
+    font-size:25px;
+    color:black;
+    line-height: 25px;
+    float: right;
+}
+/*modification of second image */
+section img{ 
+     float:right;
+width: 300px;
+height:350px;
+margin: 6%;
+margin-left: 0%;
+margin-bottom: 0%;
+margin-top: 0%;
+
+}
+
+.hero h1{
+    font-size: 45px;
+    margin-left: 0%;
+}
+    
+.detel h1{
+    font-size:45px ;
+}
+
+
+
+
+
+
+/*design for second image in regards to  styling the projects category*/
+.portfilio{
+    float:left;
+    width: 400px;
+    height:400px;
+    margin: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    margin-top: 5%;
+    
+}
+
