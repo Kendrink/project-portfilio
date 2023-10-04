@@ -19,7 +19,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Mock up: image 
 
-<img width="1703" alt="Screenshot 2023-10-03 at 8 50 37 PM" src="https://github.com/Kendrink/project-portfilio/assets/103896572/8c430092-2e9e-4ed3-bbcb-26e97bfbb0fe">
+https://bootcampspot.instructure.com/courses/4340/files/2933830/preview
 
 
 
