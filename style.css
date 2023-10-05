@@ -13,7 +13,7 @@
 }
 /* design for the limks section on the header of the page*/
 nav {
-    display: flex;
+    display:flex;
     width: 84%;
     margin: auto;
     padding: 20px 0;
